@@ -3,5 +3,6 @@
 		public static void main(String[] args) {
 			System.out.println("Hello World!"); 
 			System.out.println("Test Push to Github"); 
+			System.out.println("Merge Forks Test."); 
 		}
 }
